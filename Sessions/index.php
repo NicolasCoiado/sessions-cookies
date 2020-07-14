@@ -5,7 +5,7 @@
         <title>Index.php</title>
     </head>
     <body>
-        <form id="formulario" name="formulario" method="post" action="login.php">
+        <form id="formulario" name="formulario" method="POST" action="login.php">
             Usuário: <input name="user" type="text" />
         <br />
              Senha: <input name="password" type="password" />
